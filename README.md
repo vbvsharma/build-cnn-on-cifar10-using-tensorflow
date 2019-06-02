@@ -1,8 +1,6 @@
 # Build a CNN on CIFAR-10 using TensorFlow
----
 [Link to blog post](https://vbvsharma.com/misc/2019/05/12/CNN-on-CIFAR-10-using-TensorFlow.html)
 ## How to run this on your computer
----
 
 - **Get the code:** Download or clone this repository.
 - **Change directory:** Move into the the directory where you downloaded or cloned this repository.
